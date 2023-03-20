@@ -1,0 +1,14 @@
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\bin\Debug\net6.0\Core.Data.deps.json
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\bin\Debug\net6.0\Core.Data.runtimeconfig.json
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\bin\Debug\net6.0\Core.Data.dll
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\bin\Debug\net6.0\Core.Data.pdb
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\obj\Debug\net6.0\Core.Data.csproj.AssemblyReference.cache
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\obj\Debug\net6.0\Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\obj\Debug\net6.0\Core.Data.AssemblyInfoInputs.cache
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\obj\Debug\net6.0\Core.Data.AssemblyInfo.cs
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\obj\Debug\net6.0\Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\obj\Debug\net6.0\Core.Data.dll
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\obj\Debug\net6.0\refint\Core.Data.dll
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\obj\Debug\net6.0\Core.Data.pdb
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\obj\Debug\net6.0\Core.Data.genruntimeconfig.cache
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Data\obj\Debug\net6.0\ref\Core.Data.dll

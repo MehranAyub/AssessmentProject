@@ -1,0 +1,15 @@
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\bin\Debug\net6.0\Core.Application.deps.json
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\bin\Debug\net6.0\Core.Application.dll
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\bin\Debug\net6.0\Core.Application.pdb
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\bin\Debug\net6.0\Core.Data.dll
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\bin\Debug\net6.0\Core.Data.pdb
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\obj\Debug\net6.0\Core.Application.csproj.AssemblyReference.cache
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\obj\Debug\net6.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\obj\Debug\net6.0\Core.Application.AssemblyInfoInputs.cache
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\obj\Debug\net6.0\Core.Application.AssemblyInfo.cs
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\obj\Debug\net6.0\Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\obj\Debug\net6.0\Core.Application.csproj.CopyComplete
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\obj\Debug\net6.0\Core.Application.dll
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\obj\Debug\net6.0\refint\Core.Application.dll
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\obj\Debug\net6.0\Core.Application.pdb
+C:\Users\ayubbmeh\source\repos\UserInformation\Core.Application\obj\Debug\net6.0\ref\Core.Application.dll
